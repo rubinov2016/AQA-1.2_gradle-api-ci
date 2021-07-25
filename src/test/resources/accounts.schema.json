@@ -29,7 +29,7 @@
       "currency": {
         "enum": [
           "USD",
-          "RUB"
+          "RUR"
         ]
       }
     }
